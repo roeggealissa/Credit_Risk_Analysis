@@ -15,6 +15,24 @@ We ran six machine learning algorithms on the loan data provided by Fast Lending
 ![Confusion](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/632602a47cffe945652fd1eeb6f7edd69a6ce380/Oversample_Confusion.png)
 ![Classification](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/632602a47cffe945652fd1eeb6f7edd69a6ce380/Oversample_Classification.png)
 
+##### SMOTE
+
+![Balance](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/2666e62ac16aa367f69cfd329d4588efa9879ccf/SMOTE_Balance.png)
+![Confusion](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/2666e62ac16aa367f69cfd329d4588efa9879ccf/SMOTE_Confusion.png)
+![Classification](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/2666e62ac16aa367f69cfd329d4588efa9879ccf/SMOTE_Classification.png)
+
+##### Undersampling
+
+![Balance](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/2666e62ac16aa367f69cfd329d4588efa9879ccf/CC_balance.png)
+![Confusion](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/2666e62ac16aa367f69cfd329d4588efa9879ccf/CC_confusion.png)
+![Classification](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/2666e62ac16aa367f69cfd329d4588efa9879ccf/CC_Classification.png)
+
+##### SMOTEENN
+
+![Balance](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/2666e62ac16aa367f69cfd329d4588efa9879ccf/SMOTEENN_balance.png)
+![Confusion](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/2666e62ac16aa367f69cfd329d4588efa9879ccf/SMOTEENN_Confusion.png)
+![Classification](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/2666e62ac16aa367f69cfd329d4588efa9879ccf/SMOTEENN_Classification.png)
+
 
 ### Issues
 
