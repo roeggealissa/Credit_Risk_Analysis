@@ -36,7 +36,9 @@ We ran six machine learning algorithms on the loan data provided by Fast Lending
 ##### Random Forest
 
 ![Balance](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/a51f263b1d0e70a160bb8809b1459763582e0953/RF_balance.png)
+<br/><br/>
 ![Confusion](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/a51f263b1d0e70a160bb8809b1459763582e0953/RF_Confusion.png)
+<br/><br/>
 ![Classification](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/a51f263b1d0e70a160bb8809b1459763582e0953/RF_Classification.png)
 
 ##### Easy Ensemble
