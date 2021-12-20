@@ -11,40 +11,68 @@ Fast Lending, a peer to peer lending company, wants to use machine learning to p
 We ran six machine learning algorithms on the loan data provided by Fast Lending. The first three are using RandomOverSampler, SMOTE, and ClusterCentroids with the LogisticRegression classifier. The fourth method uses SMOTEENN which combines under and over sampling with the LogisticRegression classifier. The final two use  the BalancedRandomForestClassifier and the EasyEnsembleClassifier.
 
 ##### Over Sampling
+Balance Score
 ![Balance](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/632602a47cffe945652fd1eeb6f7edd69a6ce380/Oversample_Balance.png)
+<br/><br/>
+Confusion Matrix
 ![Confusion](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/632602a47cffe945652fd1eeb6f7edd69a6ce380/Oversample_Confusion.png)
+<br/><br/>
+Classification Report
 ![Classification](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/632602a47cffe945652fd1eeb6f7edd69a6ce380/Oversample_Classification.png)
 
 ##### SMOTE
 
+Balance Score
 ![Balance](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/2666e62ac16aa367f69cfd329d4588efa9879ccf/SMOTE_Balance.png)
+<br/><br/>
+Confusion Matrix
 ![Confusion](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/2666e62ac16aa367f69cfd329d4588efa9879ccf/SMOTE_Confusion.png)
+<br/><br/>
+Classification Report
 ![Classification](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/2666e62ac16aa367f69cfd329d4588efa9879ccf/SMOTE_Classification.png)
 
 ##### Undersampling
 
+Balance Score
 ![Balance](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/2666e62ac16aa367f69cfd329d4588efa9879ccf/CC_balance.png)
+<br/><br/>
+Confusion Matrix
 ![Confusion](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/2666e62ac16aa367f69cfd329d4588efa9879ccf/CC_confusion.png)
+<br/><br/>
+Classification Report
 ![Classification](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/2666e62ac16aa367f69cfd329d4588efa9879ccf/CC_Classification.png)
 
 ##### SMOTEENN
 
+Balance Score
 ![Balance](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/2666e62ac16aa367f69cfd329d4588efa9879ccf/SMOTEENN_balance.png)
+<br/><br/>
+Confusion Matrix
 ![Confusion](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/2666e62ac16aa367f69cfd329d4588efa9879ccf/SMOTEENN_Confusion.png)
+<br/><br/>
+Classification Report
 ![Classification](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/2666e62ac16aa367f69cfd329d4588efa9879ccf/SMOTEENN_Classification.png)
 
 ##### Random Forest
 
+Balance Score
 ![Balance](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/a51f263b1d0e70a160bb8809b1459763582e0953/RF_balance.png)
 <br/><br/>
+Confusion Matrix
 ![Confusion](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/a51f263b1d0e70a160bb8809b1459763582e0953/RF_Confusion.png)
 <br/><br/>
+Classification Report
 ![Classification](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/a51f263b1d0e70a160bb8809b1459763582e0953/RF_Classification.png)
 
 ##### Easy Ensemble
 
+Balance Score
 ![Balance](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/a51f263b1d0e70a160bb8809b1459763582e0953/EEC_balance.png)
+<br/><br/>
+Confusion Matrix
 ![Confusion](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/a51f263b1d0e70a160bb8809b1459763582e0953/EEC_Confusion.png)
+<br/><br/>
+Classification Report
 ![Classification](https://github.com/roeggealissa/Credit_Risk_Analysis/blob/a51f263b1d0e70a160bb8809b1459763582e0953/EEC_Classification.png)
 
 ### Conclusions
