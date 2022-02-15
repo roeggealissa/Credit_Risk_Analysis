@@ -4,7 +4,9 @@
 
 ### Introduction
 
-Fast Lending, a peer to peer lending company, wants to use machine learning to predict credit risk. Management at this company believe this will provide a quicker and more efficent loan process and reduce the risk of defaulted loans by identifying risky customers. Jill, the lead Data Scientist at Fast Lending, has provided us with the necessary data to run several machine learning algorithms to determine if any are effective at predicting credit risk.
+#### Project Goals
+
+The objective of this project is to determine what machine learning method is best for predicting credit risk. Overall, six methods are used and compared.
 
 ### Results
 
